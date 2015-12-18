@@ -1,0 +1,26 @@
+/** Une première liste de contenus **/
+/** Pour validation par le chef de projet **/
+
+Intégration :
+Caniuse -> La référence indispensable
+Codrops -> La meilleure référence CSS du moment
+
+
+Webdesign :
+http://www.webdesignertrends.com/ -> Parce que c'est cool
+
+
+Agences :
+http://www.ultranoir.com/fr/
+http://www.studiometa.fr/
+
+
+
+Javascript :
+https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript
+
+Développement :
+Yeoman/Grunt/Gulp
+Documentation Atlassian git
+Bitbucket
+github
