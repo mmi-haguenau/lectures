@@ -1,0 +1,35 @@
+nav{
+  background-color: color("lime", "base");
+  ul{
+    li{
+      padding:0 1em;
+    }
+
+    li:hover{
+        background-color: color("lime", "darken-3");
+      }
+
+    li.selectedMenuItem{
+      background-color:color("lime", "darken-4");
+    }
+  }
+
+}
+
+
+main{
+  h1{
+    color:color("amber", "base");
+    font-size: 1.2em;
+    line-height: 1.2em;
+  }
+}
+
+.wrapper{
+    width:800px;
+    margin:0 auto;
+
+    canvas{
+        // width:100%;
+      }
+  }

@@ -1,5 +1,9 @@
 /** Une première liste de contenus **/
 /** Pour validation par le chef de projet **/
+General :
+Blog du MMI
+
+
 
 Intégration :
 Caniuse -> La référence indispensable
@@ -18,9 +22,16 @@ http://www.studiometa.fr/
 
 Javascript :
 https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript
+https://developer.mozilla.org/fr/docs/Web/API/Element/classList
+
 
 Développement :
 Yeoman/Grunt/Gulp
 Documentation Atlassian git
 Bitbucket
 github
+
+Outils :
+Foundation
+Materialize
+Bootstrap
