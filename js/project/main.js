@@ -52,13 +52,13 @@ window.onload = function() {
             }
           });
 
-          datas.forEach(function(item){
-            if(item.category === datas[0].category) {
-                  newH1 = document.createElement("h1");
-                  newH1.innerHTML = item.title;
-                  theContent.appendChild(newH1);
-                }
-          });
+          // datas.forEach(function(item){
+          //   if(item.category === datas[0].category) {
+          //         // newH1 = document.createElement("h1");
+          //         // newH1.innerHTML = item.title;
+          //         theContent.appendChild(newH1);
+          //       }
+          // });
         }
       }
 
@@ -87,27 +87,50 @@ window.onload = function() {
       // When value is missing, replace by 0
       function addCard(item){
         newCard = document.createElement("div");
-        newCard.innerHTML = '<div class="row">'+
-        '<div class=\"col s12 m6\">'+
-        '<div class=\"card blue-grey darken-1\">'+
-        '<div class="card-content white-text">'+
-        '<span class="card-title">'+
+        // newCard.innerHTML = '<div class="row">'+
+        // '<div class=\"col s12 m6\">'+
+        // '<div class=\"card blue-grey darken-1\">'+
+        // '<div class="card-content white-text">'+
+        // '<span class="card-title">'+
+        // item.title+
+        // '</span>'+
+        // '<p>'+
+        // item.description+
+        // '</p>'+
+        // '</div>'+
+        // '<div class="card-action">'+
+        // '<a href="#">'+
+        // item.link+
+        // '</a>'+
+        // '</div>'+
+        // '</div>'+
+        // '</div>'+
+        // '</div>';
+
+
+
+        newCard.innerHTML =
+        '<div class="card-image waves-effect waves-block waves-light">'+
+        '<img class="activator" src="'
+        +item.miniature+
+        '"></div>'+
+        '<div class="card-content">'+
+        '<span class="card-title activator grey-text text-darken-4">'+
         item.title+
-        '</span>'+
+        '<i class="material-icons right">...</i></span>'+
+        '<p><a href="'+
+        item.link+
+        '">This is a link</a></p>'+
+        '</div>'+
+        '<div class="card-reveal">'+
+        '<span class="card-title grey-text text-darken-4">'+
+        item.title+'<i class="material-icons right">close</i></span>'+
         '<p>'+
         item.description+
         '</p>'+
-        '</div>'+
-        '<div class="card-action">'+
-        '<a href="#">'+
-        item.link+
-        '</a>'+
-        '</div>'+
-        '</div>'+
-        '</div>'+
         '</div>';
         theContent.appendChild(newCard);
-        newCard.classList.add('row');
+        newCard.classList.add('card');
       }
 
       function emptyToZero(val){

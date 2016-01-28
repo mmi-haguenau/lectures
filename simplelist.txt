@@ -8,6 +8,8 @@ Blog du MMI
 Intégration :
 Caniuse -> La référence indispensable
 Codrops -> La meilleure référence CSS du moment
+Magic of CSS -> Quelques tutos biens sentis sur les principales notions de CSS
+http://adamschwartz.co/magic-of-css/
 
 
 Webdesign :

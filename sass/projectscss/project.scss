@@ -33,3 +33,17 @@ main{
         // width:100%;
       }
   }
+
+.card{
+  margin-left: 1rem;
+  width:calc((100% - 2rem - 2ch) / 3);
+  display: inline-block;
+
+  .card-title{
+    font-size: 1rem;
+  }
+
+  .card-content{
+    font-size: 1rem;
+  }
+}

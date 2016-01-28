@@ -5,31 +5,36 @@
           "category" : "webdev",
           "title" : "Référence CSS : Codrops",
           "description" : "LA référence CSS à avoir dans ses bookmarks : complète et très didactique. Avec notamment une très bonne introduction à Flexbox ",
-          "link" : "http://tympanus.net/codrops/css_reference/flexbox/"
+          "link" : "http://tympanus.net/codrops/css_reference/flexbox/",
+          "miniature" : "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/02/cssrefmain.jpg"
         },
         {
           "category" : "webdesign",
           "title" : "A second link to try",
           "description" : "Obviously, this is a really intersting link",
-          "link" : "the link"
+          "link" : "the link",
+          "miniature" : "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/02/cssrefmain.jpg"
         },
         {
           "category" : "webdev",
           "title" : "A third link to try",
           "description" : "Obviously, this is a really intersting link",
-          "link" : "the link"
+          "link" : "the link",
+          "miniature" : "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/02/cssrefmain.jpg"
         },
         {
           "category" : "divers",
           "title" : "A fourth link to try",
           "description" : "Obviously, this is a really intersting link",
-          "link" : "the link"
+          "link" : "the link",
+          "miniature" : "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/02/cssrefmain.jpg"
         },
         {
           "category" : "webdev",
           "title" : "Javascript ",
           "description" : "Obviously, this is a really intersting link",
-          "link" : "http://www.w3.org/wiki/JavaScript_best_practices"
+          "link" : "http://www.w3.org/wiki/JavaScript_best_practices",
+          "miniature" : "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/02/cssrefmain.jpg"
         }
 
       ]
