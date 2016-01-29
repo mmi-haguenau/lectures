@@ -52,13 +52,13 @@ window.onload = function() {
             }
           });
 
-          // datas.forEach(function(item){
-          //   if(item.category === datas[0].category) {
-          //         // newH1 = document.createElement("h1");
-          //         // newH1.innerHTML = item.title;
-          //         theContent.appendChild(newH1);
-          //       }
-          // });
+            // datas.forEach(function(item){
+            //   if(item.category === datas[0].category) {
+            //         // newH1 = document.createElement("h1");
+            //         // newH1.innerHTML = item.title;
+            //         theContent.appendChild(newH1);
+            //       }
+            // });
         }
       }
 
