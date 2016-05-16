@@ -29,7 +29,7 @@ Une liste amoureusement mise au point par [Jean-Baptiste Bailly](https://twitter
 
 ##Javascript
 * [Openclassroom](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript) : Pour commencer avec Javascript
-[Doc Mozilla Web API](https://developer.mozilla.org/fr/docs/Web/API) : Documentation complète de Mozilla sur les différentes API JS
+* [Doc Mozilla Web API](https://developer.mozilla.org/fr/docs/Web/API) : Documentation complète de Mozilla sur les différentes API JS
 * [Leaflet](http://leafletjs.com/) : Une librairie JS pour gérer vos maps
 * [Highcharts](http://www.highcharts.com/) : Une librairie JS pour générer des graphiques SVG dynamiques à partir de vos données
 
