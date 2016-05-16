@@ -1,43 +1,88 @@
-nav{
-  background-color: color("lime", "base");
-  ul{
-    li{
-      padding:0 1em;
-    }
+$theme-color: color("lime", "base");
+$theme-color-light:color("lime", "lighten");
+$theme-color-dark:color("lime", "darken-3");
+$theme-color-darker:color("lime", "darken-4");
+$main-font-color : #FFFFFF;
 
-    li:hover{
-        background-color: color("lime", "darken-3");
-      }
-
-    li.selectedMenuItem{
-      background-color:color("lime", "darken-4");
-    }
-  }
-
-}
-
-
-main{
-  h1{
-    color:color("amber", "base");
-    font-size: 1.2em;
-    line-height: 1.2em;
-  }
+html{
+  font-size: 16px;
 }
 
 .wrapper{
-    width:800px;
+    width:960px;
     margin:0 auto;
-
-    canvas{
-        // width:100%;
-      }
   }
 
+.clearfix:after{
+  display:block;
+  content:"";
+  clear:both;
+}
+
+.navigation{
+  background-color: $theme-color;
+  padding:0 1em 0 1em;
+  display:flex;
+  justify-content:space-between;
+  height:4rem;
+  line-height:4rem;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0, 0.12);
+
+  &_logo{
+    font-size: 1.2em;
+    margin:0;
+    align-content: center;
+    height:100%;
+
+    a{
+      display:block;
+      line-height:4rem;
+      color:$main-font-color;
+      cursor: pointer;
+      user-select:none;
+      height: 100%;
+    }
+  }
+
+  &_menu{
+    font-size:1em;
+    height: 4rem!important;
+    line-height: 4rem!important;
+    background-color: $theme-color;
+    width:auto;
+    box-shadow:none;
+
+    ul{
+      li{
+        padding:0 1em;
+        cursor: pointer;
+        user-select:none;
+        }
+
+      li::first-letter{
+        text-transform: capitalize;
+        }
+
+      li:hover{
+          background-color: $theme-color-dark;
+        }
+
+      li.selectedMenuItem{
+        background-color: $theme-color-darker;
+      }
+    }
+  }
+}
+
+.cardcontainer{
+  display:flex;
+  flex-flow: wrap;
+}
+
 .card{
-  margin-left: 1rem;
-  width:calc((100% - 2rem - 2ch) / 3);
-  display: inline-block;
+  margin: 1rem 0 0 1rem;
+  flex:0 0 calc((100% - 2rem - 2ch) / 3);
+
 
   .card-title{
     font-size: 1rem;
@@ -46,4 +91,24 @@ main{
   .card-content{
     font-size: 1rem;
   }
+
+  .card-reveal{
+    font-weight:300;
+    line-height:1.2em;
+
+    span{
+      font-size: 1em;
+    }
+
+    p{
+      font-size:0.8em;
+    }
+  }
+}
+
+.material-icons{
+  font-size: 1em!important;
+  font-weight: inherit!important;
+  line-height: 1.2em!important;
+  vertical-align: middle;
 }

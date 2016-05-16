@@ -117,7 +117,7 @@ window.onload = function() {
         '<div class="card-content">'+
         '<span class="card-title activator grey-text text-darken-4">'+
         item.title+
-        '<i class="material-icons right">...</i></span>'+
+        '<i class="material-icons right">more_vert</i></span>'+
         '<p><a href="'+
         item.link+
         '">This is a link</a></p>'+

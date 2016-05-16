@@ -5,6 +5,7 @@ Blog du MMI
 
 
 
+
 Intégration :
 Caniuse -> La référence indispensable
 Codrops -> La meilleure référence CSS du moment
@@ -14,7 +15,15 @@ http://adamschwartz.co/magic-of-css/
 
 Webdesign :
 http://www.webdesignertrends.com/ -> Parce que c'est cool
+http://htmlcolorcodes.com/ //Des palettes, des outils, des tutos pour les couleurs
 
+
+Fonts
+a2-type.co.uk //Une fonderie pro
+losttype.com //Paiement libre pour des polices créées par des designers indépendants
+fontlibrary.org //Des centaines de polices gratuites
+fontdeck.com
+fontsquirrel.com
 
 Agences :
 http://www.ultranoir.com/fr/
@@ -25,7 +34,8 @@ http://www.studiometa.fr/
 Javascript :
 https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript
 https://developer.mozilla.org/fr/docs/Web/API/Element/classList
-
+http://leafletjs.com/ : Librairie JS de gestion de cartes
+http://www.highcharts.com/ : génération de graphiques
 
 Développement :
 Yeoman/Grunt/Gulp
@@ -33,7 +43,17 @@ Documentation Atlassian git
 Bitbucket
 github
 
+Cheatsheets 
+
 Outils :
 Foundation
 Materialize
 Bootstrap
+
+Logiciels :
+https://github.com/romannurik/MaterialColorsApp //Une app pour accéder à la palette de couleurs Material colors sur Mac
+Editeur Atom + atom-beautify + autocomplete-paths + autoclose-html + tree-view + emmet + filecolor + logo-file-icons + pigments + terminal-plus + sass-autocompile
+
+Wall of shame :
+https://ordresolarius.guild3.net/index.php
+http://www.francaisfacile.com/
