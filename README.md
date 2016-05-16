@@ -11,7 +11,7 @@ Une liste amoureusement mise au point par [Jean-Baptiste Bailly](https://twitter
 
 
 ##Webdesign :
-* [Webdesignertrends](http://www.webdesignertrends.com/) : L'actualité du webdesign, commentée un ancien MMI
+* [Webdesignertrends](http://www.webdesignertrends.com/) : L'actualité du webdesign, commentée par un ancien MMI
 * [HTMLColorCodes](http://htmlcolorcodes.com/) : Des palettes, des outils, des tutos pour comprendre et utiliser les couleurs
 
 
@@ -29,7 +29,7 @@ Une liste amoureusement mise au point par [Jean-Baptiste Bailly](https://twitter
 
 ##Javascript
 * [Openclassroom](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript) : Pour commencer avec Javascript
-(https://developer.mozilla.org/fr/docs/Web/API/Element/classList)
+[Doc Mozilla Web API](https://developer.mozilla.org/fr/docs/Web/API) : Documentation complète de Mozilla sur les différentes API JS
 * [Leaflet](http://leafletjs.com/) : Une librairie JS pour gérer vos maps
 * [Highcharts](http://www.highcharts.com/) : Une librairie JS pour générer des graphiques SVG dynamiques à partir de vos données
 
@@ -37,8 +37,8 @@ Une liste amoureusement mise au point par [Jean-Baptiste Bailly](https://twitter
 * [Yeoman](http://yeoman.io/) : Un outils pour déployer rapidement de nouveaux projets
 * [Grunt](http://gruntjs.com/) ou [Gulp](http://gulpjs.com/) : Des outils pour gérer les tâches répétitives
 * [Bitbucket](https://bitbucket.org/) ou [github](https://github.com/) : Les indispensables outils de versioning et de travail collaboratif
-* [Tuto GIT par Atlassian ](https://www.atlassian.com/git/tutorials/)
-* [Comprendre le workflow Github](https://guides.github.com/introduction/flow/)
+* [Tuto GIT par Atlassian ](https://www.atlassian.com/git/tutorials/) : Comprendre et maîtriser GIT
+* [Github Flow](https://guides.github.com/introduction/flow/) : comprendre le workflow Github
 
 ##Cheatsheets et documentations
 
