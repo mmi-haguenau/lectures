@@ -1,3 +1,4 @@
+[![Awesome](https://img.shields.io/badge/MMI-resources-562572.svg)](https://github.com/mmi-haguenau)
 # MMI Ressources
 Une sélection de ressources incontournables à destination des étudiants MMI de l'IUT de Haguenau et d'ailleurs.
 Une liste amoureusement mise au point par [Jean-Baptiste Bailly](https://twitter.com/justinbasile) && [Antonio Capobianco](https://twitter.com/LamiTransalpin)
@@ -51,36 +52,35 @@ Une liste amoureusement mise au point par [Jean-Baptiste Bailly](https://twitter
 
 
 ##Frameworks CSS
-* Foundation
-* Materialize
-* Bootstrap
+* [Foundation](http://foundation.zurb.com/)
+* [Materialize](http://materializecss.com/)
+* [Bootstrap](http://getbootstrap.com/)
 
 ##Logiciels
+
 * [Material Colors App](https://github.com/romannurik/MaterialColorsApp) : Une app pour accéder à la palette de couleurs Material colors sur Mac
+* [Chrome](https://www.google.com/chrome/)
 * [Atom](https://atom.io/) : Parce que c'est l'éditeur gratuit qu'il vous faut, avec les outils suivants
-  * emmet
-  * atom-beautify
-  * autocomplete-paths
-  * autoclose-html
-  * pigments
-  * terminal-plus
-  * Linter HTML, CSS, Javascript, etc.
 
-  * filecolor
-  * logo-file-icons
-
-  * sass-autocompile
-  * Project-manager
-  * Highlight-selected
-  * Simple drag-drop text
-  * Git-plus
-  * Merge-conflicts
-  * Color-picker
-
-  * autocomplete-modules
-  * auto-update-packages
-
-* [Chrome]
+###Plugins pour Atom
+  * [emmet.io](https://atom.io/packages/emmet)
+  * [atom-beautify](https://atom.io/packages/atom-beautify)
+  * [autocomplete-paths](https://atom.io/packages/autocomplete-paths)
+  * [autoclose-html](https://atom.io/packages/autoclose-html)
+  * [pigments](https://atom.io/packages/pigments)
+  * [terminal-plus](https://atom.io/packages/terminal-plus)
+  * [linter-jshint](https://atom.io/packages/linter-jshint)
+  * [filecolor](https://atom.io/packages/filecolor)
+  * [logo-file-icons](https://atom.io/packages/logo-file-icons)
+  * [sass-autocompile](https://atom.io/packages/sass-autocompile)
+  * [project-manager](https://atom.io/packages/project-manager)
+  * [highlight-selected](https://atom.io/packages/highlight-selected)
+  * [Simple drag-drop text](https://atom.io/packages/simple-drag-drop-text)
+  * [Git-plus](https://atom.io/packages/git-plus)
+  * [Merge-conflicts](https://atom.io/packages/Merge-conflicts)
+  * [Color-picker](https://atom.io/packages/Color-picker)
+  * [autocomplete-modules](https://atom.io/packages/autocomplete-modules)
+  * [auto-update-packages](https://atom.io/packages/auto-update-packages)
 
 ##Wall of shame
 - https://ordresolarius.guild3.net/index.php
